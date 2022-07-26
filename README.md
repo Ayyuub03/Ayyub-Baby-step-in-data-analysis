@@ -1,14 +1,17 @@
-#Project name: Ayyub-Baby-step-in-Data-Analysis
+# Project name: Ayyub-Baby-step-in-Data-Analysis
 
 
-#Project objective: Problem Statement
+# Project objective: Problem Statement
 
 
 
-#Data Sourcing
+# Data Sourcing
 
 
-#Data Transformation
+
+# Data Transformation
 
 
-#Finding and Recommendation
+
+
+# Finding and Recommendation
